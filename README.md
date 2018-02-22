@@ -14,5 +14,5 @@ LoadingType.WAVE
 ```
 LoadingType.SPINNER
 ```
-DEMO :
-![Alt Text](https://raw.githubusercontent.com/Hendriyawan/master/demo/demo.gif)
+DEMO :<br>
+![Alt Text](https://raw.githubusercontent.com/Hendriyawan/JavaLoadingAnimation/master/demo/demo.gif)
