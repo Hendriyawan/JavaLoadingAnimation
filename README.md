@@ -15,4 +15,4 @@ LoadingType.WAVE
 LoadingType.SPINNER
 ```
 DEMO :
-![alt tag](https://raw.githubusercontent.com/Hendriyawan/master/demo/demo.gif)
+![Alt Text](https://raw.githubusercontent.com/Hendriyawan/master/demo/demo.gif)
